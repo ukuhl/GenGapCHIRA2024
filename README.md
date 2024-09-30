@@ -14,6 +14,8 @@ AI-generated content, particularly artificially generated im- age data, presents
   - images generated using the "class prompt" (in our case, "a man"), important to preserve this concept in DreamBooth training
 - `GenGap_dreambooth/instance-images`:
   - images representing the visual concept we will be teaching the model
+- `GenGap_dreambooth/GenGapCHIRA2024_trained_model`:
+  - trained model used for generating experimental data
 - `GenGap_dreambooth/GenGap_dreambooth_training.ipynb`:
   - notebook detailing the training process [TO DO: INSERT OPEN IN COLLAB!]
 - `GenGap_dreambooth/GenGap_dreambooth_generation.ipynb`:
