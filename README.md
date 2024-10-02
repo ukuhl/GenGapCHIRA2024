@@ -1,5 +1,7 @@
 # GenGapCHIRA2024
 
+![alt text](https://github.com/ukuhl/GenGapCHIRA2024/blob/d1198d11ebd319c7f9b626913be732fdf84ec3f4/GenGap_stats/GenGap_Fig2_Example_Images.png)
+
 This repository contains the data and experimental code accompanying the paper 
 
 > Lüdemann, R., Schulz, A., & Kuhl, U. (2024). Generation Gap or Diffusion Trap? How Age Affects the Detection of Personalized AI-Generated Images. 8th International Conference on Computer-Human Interaction Research and Applications, CHIRA 2024, Porto, Portugal. (*Accepted*)
@@ -32,8 +34,10 @@ AI-generated content, particularly artificially generated im- age data, presents
 
 ## Statistical analysis in `GenGap_stats`:
 
-- `GenGap_stats/GenGap_userStudy_evaluation.ipynb`:
-  - notebook detailing the entire statistical analysis of user data [TO DO: INSERT OPEN IN COLLAB!]
+- `GenGap_studyData/GenGap_a-priori-poweranalysis.R`:
+  - R script to perform a-priori power analysis
+- [GenGap_stats/GenGap_userStudy_evaluation.ipynb](GenGap_stats/GenGap_userStudy_evaluation.ipynb) <a target="_blank" href="https://colab.research.google.com/github/ukuhl/GenGapCHIRA2024/blob/be31358288e7a0f051f94559e6cf55da50567cff/GenGap_stats/GenGap_userStudy_evaluation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  - notebook detailing the entire statistical analysis of user data
 
 ## License
 
