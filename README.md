@@ -17,7 +17,7 @@ AI-generated content, particularly artificially generated im- age data, presents
 - `GenGap_dreambooth/instance-images`:
   - images representing the visual concept we will be teaching the model
 - `GenGap_dreambooth/GenGap_dreambooth_training_and_generation.ipynb`:
-- [GenGap_dreambooth/GenGap_dreambooth_training_and_generation.ipynb](GenGap_dreambooth/GenGap_dreambooth_training_and_generation.ipynb) <a target="_blank" href="LINK"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+- [GenGap_dreambooth/GenGap_dreambooth_training_and_generation.ipynb](GenGap_dreambooth/GenGap_dreambooth_training_and_generation.ipynb) <a target="_blank" href="https://github.com/ukuhl/GenGapCHIRA2024/blob/f302d542a3aa292aa9f9721b02762901e3f50563/GenGap_dreambooth/GenGap_dreambooth_training_and_generation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   - notebook detailing the training process and subsequent image generation process
 
 ## Ressources used in user study in `GenGap_studyData`:
