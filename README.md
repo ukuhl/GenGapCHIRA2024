@@ -4,7 +4,7 @@
 
 This repository contains the data and experimental code accompanying the paper 
 
-> Lüdemann, R., Schulz, A., & Kuhl, U. (2024). Generation Gap or Diffusion Trap? How Age Affects the Detection of Personalized AI-Generated Images. 8th International Conference on Computer-Human Interaction Research and Applications, CHIRA 2024, Porto, Portugal. (*Accepted*)
+> Lüdemann, R., Schulz, A., & Kuhl, U. (2024, November). Generation Gap or Diffusion Trap? How Age Affects the Detection of Personalized AI-Generated Images. In International Conference on Computer-Human Interaction Research and Applications (pp. 359-381). Cham: Springer Nature Switzerland.
 
 ## Abstract
 
